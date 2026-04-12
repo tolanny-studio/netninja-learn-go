@@ -29,10 +29,13 @@ func main() {
 
 	var numOne int8 = 32
 	var numTwo uint = 25
+	fmt.Println(numOne, numTwo)
 
-	// float 
+	// float
 
 	var scoreOne float32 = 34.90
 	var scoreTwo float64
+
+	fmt.Println(scoreOne, scoreTwo)
 
 }
